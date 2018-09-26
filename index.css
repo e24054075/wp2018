@@ -1,0 +1,135 @@
+#topic
+{
+	font-size:3em;
+	position:absolute;
+	top:2%;
+	right:10%;
+}
+#topic2
+{
+	color:red;
+}
+body
+{
+	background-color:rgb(245,240,239);
+}
+#index
+{
+	background-repeat:no-repeat;
+	position:absolute;
+	top:2%;
+	left:2%;
+	width:20vw;
+	height:20vh;
+}
+#b1
+{
+	position:absolute;
+	left:1%;
+	top:15%;
+}
+#b2
+{
+	position:absolute;
+	right:30%;
+	top:30%;
+}
+#b3
+{
+	position:absolute;
+	left:1%;
+	top:50%;
+}
+#b4
+{
+	position:absolute;
+	right:30%;
+	top:65%;
+}
+#b5
+{
+	position:absolute;
+	left:1%;
+	top:85%;
+}
+.p_back
+{
+	width:25vw;
+	height:25vh;
+}
+
+#p1
+{
+	position:absolute;
+	left:29%;
+	top:17%;
+}
+#p2
+{
+	position:absolute;
+	right:8%;
+	top:32%;
+}
+#p3
+{
+	position:absolute;
+	left:29%;
+	top:52%;
+}
+#p4
+{
+	position:absolute;
+	right:8%;
+	top:67%;
+}
+#p5
+{
+	position:absolute;
+	left:29%;
+	top:87%;
+}
+#bo1
+{
+	position:absolute;
+	left:15%;
+	top:15%;
+}
+#bo2
+{
+	position:absolute;
+	right:20%;
+	top:30%;
+}
+#bo3
+{
+	position:absolute;
+	left:15%;
+	top:50%;
+}
+#bo4
+{
+	position:absolute;
+	right:20%;
+	top:65%;
+}
+#bo5
+{
+	position:absolute;
+	left:15%;
+	top:85%;
+}
+.bottle
+{
+	width:20vw;
+	height:20vh;
+}
+.name
+{
+	font-size:2em;
+	font-weight:bold;
+}
+.price
+{
+	color:red;
+}
+
