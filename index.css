@@ -1,13 +1,14 @@
 #topic
 {
-	font-size:3em;
+	font-size:2em;
+	font-weight:bold;
 	position:absolute;
-	top:2%;
+	top:3%;
 	right:10%;
 }
 #topic2
 {
-	color:red;
+	color:rgb(156,85,87);
 }
 body
 {
@@ -25,68 +26,70 @@ body
 #b1
 {
 	position:absolute;
-	left:1%;
+	left:6%;
 	top:15%;
 }
 #b2
 {
 	position:absolute;
-	right:30%;
-	top:30%;
+	right:24%;
+	top:32%;
 }
 #b3
 {
 	position:absolute;
-	left:1%;
-	top:50%;
+	left:6%;
+	top:49%;
 }
 #b4
 {
 	position:absolute;
-	right:30%;
-	top:65%;
+	right:24%;
+	top:66%;
 }
 #b5
 {
 	position:absolute;
-	left:1%;
-	top:85%;
+	left:6%;
+	top:83%;
 }
 .p_back
 {
-	width:25vw;
-	height:25vh;
+	width:30vw;
+	height:30vw;
+	border-radius:999em;
+	background-color:white;
 }
 
 #p1
 {
 	position:absolute;
 	left:29%;
-	top:17%;
+	top:15%;
 }
 #p2
 {
 	position:absolute;
-	right:8%;
+	right:10%;
 	top:32%;
 }
 #p3
 {
 	position:absolute;
 	left:29%;
-	top:52%;
+	top:49%;
 }
 #p4
 {
 	position:absolute;
-	right:8%;
-	top:67%;
+	right:10%;
+	top:66%;
 }
 #p5
 {
 	position:absolute;
 	left:29%;
-	top:87%;
+	top:83%;
 }
 #bo1
 {
@@ -97,26 +100,26 @@ body
 #bo2
 {
 	position:absolute;
-	right:20%;
-	top:30%;
+	right:24%;
+	top:32%;
 }
 #bo3
 {
 	position:absolute;
 	left:15%;
-	top:50%;
+	top:49%;
 }
 #bo4
 {
 	position:absolute;
-	right:20%;
-	top:65%;
+	right:24%;
+	top:66%;
 }
 #bo5
 {
 	position:absolute;
 	left:15%;
-	top:85%;
+	top:83%;
 }
 .bottle
 {
@@ -130,6 +133,6 @@ body
 }
 .price
 {
-	color:red;
+	color:rgb(156,85,87);
 }
 
