@@ -10,9 +10,20 @@
 {
 	color:rgb(156,85,87);
 }
+#topic3
+{
+	font-size:2em;
+	font-weight:bold;
+	position:absolute;
+	top:3%;
+	right:10%;
+	display:none;
+}
 body
 {
 	background-color:rgb(245,240,239);
+	margin:0px;
+	padding:0px;
 }
 #index
 {
@@ -20,8 +31,19 @@ body
 	position:absolute;
 	top:2%;
 	left:2%;
-	width:20vw;
-	height:20vh;
+	width:9vw;
+	height:9vh;
+	display:on;
+}
+#back
+{
+	background-repeat:no-repeat;
+	position:absolute;
+	top:4%;
+	left:7%;
+	width:4vw;
+	height:4vh;
+	display:none;
 }
 #b1
 {
@@ -32,7 +54,7 @@ body
 #b2
 {
 	position:absolute;
-	right:24%;
+	left:47%;
 	top:32%;
 }
 #b3
@@ -44,7 +66,7 @@ body
 #b4
 {
 	position:absolute;
-	right:24%;
+	left:47%;
 	top:66%;
 }
 #b5
@@ -55,8 +77,6 @@ body
 }
 .p_back
 {
-	width:30vw;
-	height:30vw;
 	border-radius:999em;
 	background-color:white;
 }
@@ -65,32 +85,63 @@ body
 {
 	position:absolute;
 	left:29%;
-	top:15%;
+	top:20%;
 }
 #p2
 {
 	position:absolute;
-	right:10%;
-	top:32%;
+	left:70%;
+	top:37%;
 }
 #p3
 {
 	position:absolute;
 	left:29%;
-	top:49%;
+	top:54%;
 }
 #p4
 {
 	position:absolute;
-	right:10%;
-	top:66%;
+	left:70%;
+	top:71%;
 }
 #p5
 {
 	position:absolute;
 	left:29%;
-	top:83%;
+	top:88%;
 }
+#pp1
+{
+	position:absolute;
+	left:29%;
+	top:25%;
+}
+#pp2
+{
+	position:absolute;
+	left:70%;
+	top:42%;
+}
+#pp3
+{
+	position:absolute;
+	left:29%;
+	top:59%;
+}
+#pp4
+{
+	position:absolute;
+	left:70%;
+	top:76%;
+}
+#pp5
+{
+	position:absolute;
+	left:29%;
+	top:93%;
+}
+
 #bo1
 {
 	position:absolute;
@@ -100,7 +151,7 @@ body
 #bo2
 {
 	position:absolute;
-	right:24%;
+	left:56%;
 	top:32%;
 }
 #bo3
@@ -112,7 +163,7 @@ body
 #bo4
 {
 	position:absolute;
-	right:24%;
+	left:56%;
 	top:66%;
 }
 #bo5
@@ -126,13 +177,110 @@ body
 	width:20vw;
 	height:20vh;
 }
-.name
+#c1
+{
+	position:absolute;
+	left:6%;
+	top:15%;
+}
+#c2
+{
+	position:absolute;
+	right:24%;
+	top:32%;
+}
+#c3
+{
+	position:absolute;
+	left:6%;
+	top:49%;
+}
+#c4
+{
+	position:absolute;
+	right:24%;
+	top:66%;
+}
+#c5
+{
+	position:absolute;
+	left:6%;
+	top:83%;
+}
+.cover
+{
+	width:30vw;
+	height:19vh;
+}
+.product
 {
 	font-size:2em;
 	font-weight:bold;
 }
 .price
 {
+	font-size:2em;
+	font-weight:bold;
 	color:rgb(156,85,87);
 }
+.price2
+{
+	position:absolute;
+	top:95%;
+	left:50%;
+	width:35vw;
+	color:white;
+	font-size:2em;
+	font-weight:bold;
+	background-color:black;
+	opacity:0.0;
+}
+.intro1
+{
+	position:absolute;
+	top:40%;
+	left:7%;
+	width:40vw;
+	color:black;
+	font-size:2em;
+	background-color:rgb(245,240,239);
+	opacity:0.0;
+}
+.intro2
+{
+	position:absolute;
+	top:50%;
+	left:7%;
+	width:40vw;
+	color:black;
+	font-size:2em;
+	background-color:white;
+	opacity:0.0;
+}
+#count
+{
+	position:absolute;
+	top:95%;
+	left:15%;
+	width:23vw;
+	color:white;
+	font-size:2em;
+	font-weight:bold;
+	background-color:black;
+	opacity:0.0;
+}
+#upcover
+{
+	position:absolute;
+	top:10%;
+	left:0%;
+	width:100vw;
+	height:40vh;
+	color:white;
+	background-color:rgb(245,240,239);
+	display:none;
+}
+
+
+
 
